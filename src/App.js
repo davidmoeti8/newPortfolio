@@ -1,27 +1,20 @@
-import './App.css';
+import About from "./compoments/About";
+import Contact from "./compoments/Contact";
+import Home from "./compoments/Home";
+import Navbar from "./compoments/Navbar";
+import Skills from "./compoments/Skills";
+import Work from "./compoments/Work";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </p>
-      </header>
+    <div>
+       <Navbar />
+       <Home />
+       <About />
+       <Skills />
+       <Work />
+       <Contact />
     </div>
   );
 }
