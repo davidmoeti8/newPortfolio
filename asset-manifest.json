@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newPortfolio/static/css/main.372bd3f4.css",
+    "main.js": "/newPortfolio/static/js/main.8518f0f1.js",
+    "static/media/newMissLim.png": "/newPortfolio/static/media/newMissLim.0399b2920942ca6a09e1.png",
+    "static/media/react.png": "/newPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/newPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/newPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/newPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/newPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/newPortfolio/index.html",
+    "main.372bd3f4.css.map": "/newPortfolio/static/css/main.372bd3f4.css.map",
+    "main.8518f0f1.js.map": "/newPortfolio/static/js/main.8518f0f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372bd3f4.css",
+    "static/js/main.8518f0f1.js"
+  ]
+}
